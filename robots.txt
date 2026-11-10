@@ -1,0 +1,8 @@
+# Psicólogo Brasileiro Online — Antonio Walesson · CRP 11/13625
+# Endereço principal: https://psicologobrasileiroonline.com.br/
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://psicologobrasileiroonline.com.br/sitemap.xml
